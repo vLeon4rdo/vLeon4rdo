@@ -1,4 +1,4 @@
-- 🍃 Olá, eu sou @vLeon4rdo
+- 🍃 Olá, eu sou Leonardo Belchior, moro no Pará
 - 🎮 Gosto de videogames, músicas e de usar computador
 - 🌱 Sou leigo na área de programação, porém dedicado
 - 👽 Não encontrei meu próposito, ainda, mas com certeza saberei quando a oportunidade chegar 
