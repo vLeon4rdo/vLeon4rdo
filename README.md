@@ -1,3 +1,1 @@
-- 🍃 Olá, eu sou Leonardo Belchior, moro no Pará
-- 🌱 Sou leigo na área de programação, porém dedicado 
-- 👾 Se quiser entrar em contato comigo, pode mandar uma DM no instagram (@vleon4rdo)
+
